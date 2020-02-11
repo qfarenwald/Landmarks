@@ -7,6 +7,7 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		0C24574023F3514700E2C160 /* PageControl.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C24573F23F3514700E2C160 /* PageControl.swift */; };
 		0C7038FE23F3313200F4BCDE /* PageViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7038FD23F3313200F4BCDE /* PageViewController.swift */; };
 		0C70390023F3396100F4BCDE /* PageView.swift in Sources */ = {isa = PBXBuildFile; fileRef = 0C7038FF23F3396100F4BCDE /* PageView.swift */; };
 		B7310DD1229F6839001079B9 /* HexagonParameters.swift in Sources */ = {isa = PBXBuildFile; fileRef = B7310DD0229F6839001079B9 /* HexagonParameters.swift */; };
@@ -60,6 +61,7 @@
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
+		0C24573F23F3514700E2C160 /* PageControl.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageControl.swift; sourceTree = "<group>"; };
 		0C7038FD23F3313200F4BCDE /* PageViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageViewController.swift; sourceTree = "<group>"; };
 		0C7038FF23F3396100F4BCDE /* PageView.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = PageView.swift; sourceTree = "<group>"; };
 		73F95A9A1230AE62CF0AAC9F /* SampleCode.xcconfig */ = {isa = PBXFileReference; lastKnownFileType = text.xcconfig; name = SampleCode.xcconfig; path = ../Configuration/SampleCode.xcconfig; sourceTree = "<group>"; };
@@ -172,6 +174,7 @@
 				B7394865229F194000C47603 /* AppDelegate.swift */,
 				0C7038FD23F3313200F4BCDE /* PageViewController.swift */,
 				0C7038FF23F3396100F4BCDE /* PageView.swift */,
+				0C24573F23F3514700E2C160 /* PageControl.swift */,
 				B7394867229F194000C47603 /* SceneDelegate.swift */,
 				B7D587D122A0892C006E8DCF /* Home.swift */,
 				B7D587D322A08965006E8DCF /* CategoryRow.swift */,
@@ -377,6 +380,7 @@
 				B739489F229F2D9700C47603 /* LandmarkRow.swift in Sources */,
 				0C70390023F3396100F4BCDE /* PageView.swift in Sources */,
 				B7D587DB22A08D67006E8DCF /* ProfileSummary.swift in Sources */,
+				0C24574023F3514700E2C160 /* PageControl.swift in Sources */,
 				B7D2AAC5229F4D7C0061E5F5 /* UserData.swift in Sources */,
 				B7394881229F28B900C47603 /* Landmark.swift in Sources */,
 				B7D587DF22A08E1A006E8DCF /* ProfileEditor.swift in Sources */,
